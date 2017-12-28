@@ -1,0 +1,11 @@
+.frame{
+
+	border: 1px solid #FFFFFF;
+    margin:20px auto;
+    padding:10px;
+    position:relative;
+	border-radius:5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+
+}
